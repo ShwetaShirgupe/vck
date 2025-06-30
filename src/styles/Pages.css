@@ -1,0 +1,96 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.text {
+    height: 50px;
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+.slide {
+    height: 400px;
+    width: 1200px;
+
+}
+
+.line {
+    font-size: 40px;
+    font-family: Cambria;
+    color: crimson;
+}
+
+.line2 {
+    font-size: 20px;
+    font-family: Cambria;
+    color: darkblue;
+    padding-left: 50px;
+}
+
+.img2 {
+    border: 2px solid black;
+}
+
+.click {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.table {
+    text-align: center;
+}
+
+
+.message2 {
+    text-align: center;
+    font-family: Cambria;
+    color: crimson;
+    font-weight: bold;
+}
+
+.center{
+    text-align: center;
+}
+
+.container{
+    padding-left: 50px;
+}
+
+#join{
+    padding-left: 20px;
+    width: 1085px;
+    font-size: 20px;
+}
+
+.call{
+    padding-top: 50px;
+    padding-left: 300px;
+}
+
+.rights{
+    background-color: rgb(43, 38, 38);
+    height: 50px;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.btn3 a {
+    
+    color: aliceblue;
+    text-decoration: none;
+    height: 30px;
+    width: 80px;
+    font-size: 25px;
+
+}
+
+#study{
+    border: 2px solid black;
+}

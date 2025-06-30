@@ -1,0 +1,39 @@
+.head{
+    background-color: blueviolet;
+    height: 60px;
+    width: 1900px;
+    display: flex;
+    align-items: center;
+    justify-content:start;
+    padding: 60px;
+  
+}
+.content{
+    text-decoration: none;
+    font-size: 28px;
+    margin-left: 120px;
+    color: aliceblue;
+    font-family: sans-serif;
+}
+
+#btn{
+   height: 50px;
+   width: 100px;
+}
+
+
+
+#space{
+    margin-left: 300px;
+}
+
+.clg{
+    font-size: 35px;
+    text-decoration: none;
+    color: aliceblue;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+}
+
+
